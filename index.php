@@ -23,7 +23,7 @@
 }
 ?>
 
-//Formulario basico para pegar dados do Cliente
+<!-- Pegando dados do Cliente -->
 <!DOCTYPE html>
   <head>
     <title>Lista Clientes</title>
